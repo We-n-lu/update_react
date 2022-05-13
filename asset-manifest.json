@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/update_react/static/css/main.48860734.css",
+    "main.js": "/update_react/static/js/main.6906e171.js",
+    "static/media/img22.jpg": "/update_react/static/media/img22.a2851265eb528f22711e.jpg",
+    "static/media/img03.jpg": "/update_react/static/media/img03.bbca1ab544ed070f8767.jpg",
+    "static/media/img11.jpg": "/update_react/static/media/img11.90b1a6ec3cad3ba8adaf.jpg",
+    "static/media/img07.jpg": "/update_react/static/media/img07.a2bc3d132475cccc0bef.jpg",
+    "static/media/img08.jpg": "/update_react/static/media/img08.c618a95be806fe4cd12e.jpg",
+    "static/media/img09.jpg": "/update_react/static/media/img09.893036be89387f9f7949.jpg",
+    "static/media/img04.jpg": "/update_react/static/media/img04.860f8c2d6608b076d716.jpg",
+    "static/media/img02.jpg": "/update_react/static/media/img02.08f12f0bad9649015d54.jpg",
+    "static/media/img10.jpg": "/update_react/static/media/img10.82b16145d14f032e1f39.jpg",
+    "static/media/img06.jpg": "/update_react/static/media/img06.6c66f775d0a16e7360fc.jpg",
+    "index.html": "/update_react/index.html",
+    "main.48860734.css.map": "/update_react/static/css/main.48860734.css.map",
+    "main.6906e171.js.map": "/update_react/static/js/main.6906e171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48860734.css",
+    "static/js/main.6906e171.js"
+  ]
+}
