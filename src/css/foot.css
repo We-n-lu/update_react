@@ -1,0 +1,7 @@
+.foorColor a{
+    color: white;
+    font-size: 20px;
+}
+.foorColor a:hover {
+    color: orange;
+}

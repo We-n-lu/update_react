@@ -1,0 +1,41 @@
+.container {
+    /*width: 600px;*/
+    /*height: 112px;*/
+    overflow: hidden;
+}
+
+.container .placeRight {
+    width: 1100px;
+    height: 50px;
+    font-size: 50px;
+    color: grey;
+}
+
+.placeRight i {
+    float: right;
+}
+.placeRight i:hover {
+   color: orange;
+}
+
+.scollwrap ul {
+    position: relative;
+    width: 2326px;
+    animation: move 6s infinite linear;
+}
+.scollwrap ul:hover{
+    animation-play-state: paused;
+}
+li{
+    float: left;
+    list-style-type: none;
+    margin-left: 100px;
+
+}
+
+@keyframes move {
+    to {
+        transform: translateX(-850px);
+    }
+}
+

@@ -1,0 +1,8 @@
+.xiaoKu a {
+    color: #0c0c0c;
+
+}
+.xiaoKu a:hover {
+    background: orange;
+    color: whitesmoke;
+}

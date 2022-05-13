@@ -1,0 +1,21 @@
+.box {
+    background-color: rgba(50%,50%,50%,0.2);
+
+    height: 450px;
+    width: 100%;
+}
+
+.size2 {
+    padding:10px;
+    marginTop:50px;
+
+    float: left;
+}
+.rightFu {
+    float: right;
+    height: 450px;
+    margin-right: 10px;
+    width:50%;
+    text-align: right;
+    color: grey;
+}
